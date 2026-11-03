@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=170&section=header&text=Akshay%20Patel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20ClickMaking%20%E2%80%A2%20Ahmedabad%2C%20Gujarat&descAlignY=60&descAlign=50" alt="Akshay Patel — Founder, ClickMaking" />
@@ -16,16 +15,20 @@ I run **ClickMaking** — a digital marketing agency in Ahmedabad, Gujarat (foun
 
 > **Marketing that brings customers, not just clicks.**
 
+💻 **B.Tech · Computer Engineer** — building websites, apps & AI films · Python · TypeScript · JavaScript · React · Supabase
+
 ## 🛠️ Stack I build with
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,supabase,github&theme=dark" alt="React, TypeScript, JavaScript, Vite, Tailwind CSS, Supabase, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,react,ts,js,vite,tailwind,supabase,github&theme=dark" alt="Python, React, TypeScript, JavaScript, Vite, Tailwind CSS, Supabase, GitHub" />
 </div>
 
 ## 📊 GitHub stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akkie2231&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akkie2231&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkie2231&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
 </div>
 
 ## 🚀 Featured work
@@ -37,6 +40,7 @@ I run **ClickMaking** — a digital marketing agency in Ahmedabad, Gujarat (foun
 | [Know Your Drip](https://www.knowyourdrip.in) | Streetwear clothing store |
 | [Mission Health Rise](https://www.missionhealthrise.in) | Website developed by ClickMaking |
 | [MishubhVertex](https://www.mishubhvertex.com) | Business website — products, blog & clients |
+| [Sahyog Dental and Implant Clinic](https://akkie2231.github.io/sahyog-dental/) | Dental clinic website — Himatnagar, Gujarat |
 
 ## 🧰 Free tools
 
