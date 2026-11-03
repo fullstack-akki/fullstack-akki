@@ -20,7 +20,7 @@ I run **ClickMaking** — a digital marketing agency in Ahmedabad, Gujarat (foun
 ## 🛠️ Stack I build with
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,ts,js,vite,tailwind,supabase,github&theme=dark" alt="Python, React, TypeScript, JavaScript, Vite, Tailwind CSS, Supabase, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,react,ts,js,vite,tailwind,supabase,cloudflare,github&theme=dark" alt="Python, React, TypeScript, JavaScript, Vite, Tailwind CSS, Supabase, Cloudflare, GitHub" />
 </div>
 
 ## 📊 GitHub stats
