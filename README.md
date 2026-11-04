@@ -6,9 +6,9 @@
 
 [![Website](https://img.shields.io/badge/Website-clickmaking.com-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.clickmaking.com)
 [![Email](https://img.shields.io/badge/Email-support%40clickmaking.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@clickmaking.com)
-[![GitHub followers](https://img.shields.io/github/followers/akkie2231?style=social)](https://github.com/akkie2231?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/fullstack-akki?style=social)](https://github.com/fullstack-akki?tab=followers)
 
-![Profile views](https://komarev.com/ghpvc/?username=akkie2231&color=22d3ee&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=fullstack-akki&color=22d3ee&style=flat)
 
 </div>
 
@@ -29,16 +29,16 @@ I run **ClickMaking** — a digital marketing agency in Ahmedabad, Gujarat (foun
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akkie2231&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=fullstack-akki&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
  </div>
 
 ## 🐍 Contribution snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akkie2231/akkie2231/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akkie2231/akkie2231/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akkie2231/akkie2231/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fullstack-akki/fullstack-akki/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fullstack-akki/fullstack-akki/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fullstack-akki/fullstack-akki/output/github-snake.svg" />
   </picture>
 </div>
 
