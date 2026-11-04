@@ -30,9 +30,7 @@ I run **ClickMaking** — a digital marketing agency in Ahmedabad, Gujarat (foun
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akkie2231&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akkie2231&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkie2231&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
-</div>
+ </div>
 
 ## 🐍 Contribution snake
 
@@ -53,7 +51,7 @@ I run **ClickMaking** — a digital marketing agency in Ahmedabad, Gujarat (foun
 | [Know Your Drip](https://www.knowyourdrip.in) | Streetwear clothing store |
 | [Mission Health Rise](https://www.missionhealthrise.in) | Website developed by ClickMaking |
 | [MishubhVertex](https://www.mishubhvertex.com) | Business website — products, blog & clients |
-| [Sahyog Dental and Implant Clinic](https://akkie2231.github.io/sahyog-dental/) | Dental clinic website — Himatnagar, Gujarat |
+| [Bright Smile Dental Clinic — demo template](https://hello-on-empty-canvas.lovable.app/) | Dental clinic website template — Ahmedabad, Gujarat |
 
 ## 🧰 Free tools
 
